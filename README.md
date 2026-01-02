@@ -1,3 +1,4 @@
+markdown
 # LoongBot: 工业机械臂神经网络正向设计与控制生态系统
 ## (LoongBot: Neural Design & Control Ecosystem for Industrial Manipulators)
 
@@ -63,4 +64,3 @@ cd LoongBot
 联系方式：[您的邮箱或联系方式]
 学术引用：如果您在研究中引用了本项目，请注明来源：HIT LoongBot Project (2026).
 规格严格，功夫到家。 Dedicated to Longzhu.
-{content: }
