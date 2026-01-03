@@ -44,6 +44,12 @@
 ### 5️⃣ LoongEnv-Eye —— 监控  
 👉 运行期安全监控与数据记录，在保障安全的同时采集真机数据用于训练与分析
 
+### 业务流
+
+<p align="center">
+  <img src="assets/loongEnvTask.jpg" alt="loongEnv Task" width="800"/>
+</p>
+
 ## 支撑平台
 
 👉 组建工业机器人底座技术创新研究院（哈尔滨）
