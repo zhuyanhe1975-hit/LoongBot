@@ -2,7 +2,7 @@
   <img src="assets/loongenv-logo.png" alt="LoongEnv Logo" width="640"/>
 </p>
 
-# LoongEnv
+# LoongEnv - “龙臂”
 工业机械臂正向设计与智能控制开发系统
 
 > 真正被工程界认可的“智能”：少调参、稳定、能解释、出问题能兜底
