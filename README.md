@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/loongenv-logo.png" alt="LoongEnv Logo" width="320"/>
+  <img src="assets/loongenv-logo.png" alt="LoongEnv Logo" width="640"/>
 </p>
 
 # LoongEnv
